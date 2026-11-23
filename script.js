@@ -1,0 +1,1 @@
+document.getElementById('copy-code')?.addEventListener('click',async()=>{const b=document.getElementById('copy-code');try{await navigator.clipboard.writeText('XEREF-A-1520');b.textContent='Copied!';}catch{b.textContent='Select code above';}});

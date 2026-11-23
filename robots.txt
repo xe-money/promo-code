@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xe-money.github.io/promo-code/sitemap.xml
